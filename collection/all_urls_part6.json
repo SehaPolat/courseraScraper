@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Personal Training: Sales and Client Retention new Course by American Council on Exercise",
+    "url": "https://www.coursera.org/learn/pt-sales-client-retention"
+  },
+  {
+    "title": "Goal Setting for Personal Trainers new Course by American Council on Exercise",
+    "url": "https://www.coursera.org/learn/goal-setting-for-pts"
+  },
+  {
+    "title": "Foundations of Exercise and Nutrition new Course by American Council on Exercise",
+    "url": "https://www.coursera.org/learn/foundations-exercise-nutrition"
+  },
+  {
+    "title": "Build Your First Android App (Project-Centered Course) Course by CentraleSupélec",
+    "url": "https://www.coursera.org/learn/android-app"
+  },
+  {
+    "title": "Two Speed IT: How Companies Can Surf the Digital Wave",
+    "url": "https://www.coursera.org/learn/2-speed-it"
+  },
+  {
+    "title": "On Strategy : What Managers Can Learn from Philosophy - PART 1 Course by CentraleSupélec",
+    "url": "https://www.coursera.org/learn/management-philosophy"
+  },
+  {
+    "title": "Managing Big Data in Clusters and Cloud Storage Course by Cloudera",
+    "url": "https://www.coursera.org/learn/cloud-storage-big-data-analysis-sql"
+  },
+  {
+    "title": "Analyzing Big Data with SQL Course by Cloudera",
+    "url": "https://www.coursera.org/learn/cloudera-big-data-analysis-sql-queries"
+  },
+  {
+    "title": "Foundations for Big Data Analysis with SQL Course by Cloudera",
+    "url": "https://www.coursera.org/learn/foundations-big-data-analysis-sql"
+  },
+  {
+    "title": "Introduction to PyMC3 for Bayesian Modeling and Inference Course by Databricks",
+    "url": "https://www.coursera.org/learn/introduction-to-pymc3"
+  },
+  {
+    "title": "Bayesian Inference with MCMC Course by Databricks",
+    "url": "https://www.coursera.org/learn/mcmc"
+  },
+  {
+    "title": "Introduction to Bayesian Statistics Course by Databricks",
+    "url": "https://www.coursera.org/learn/compstatsintro"
+  },
+  {
+    "title": "Tinkering Fundamentals: Motion and Mechanisms free Course by Exploratorium",
+    "url": "https://www.coursera.org/learn/tinkering-motion-mechanisms"
+  },
+  {
+    "title": "Tinkering Fundamentals: Circuits free Course by Exploratorium",
+    "url": "https://www.coursera.org/learn/tinkering-circuits"
+  },
+  {
+    "title": "Exploring Light: Hands-on Activities and Strategies for Teachers free Course by Exploratorium",
+    "url": "https://www.coursera.org/learn/teach-light-color"
+  },
+  {
+    "title": "Renew your CBRS Professional Installer certification new Course by Google - Spectrum Sharing",
+    "url": "https://www.coursera.org/learn/google-cbrs-cpi-renewal"
+  },
+  {
+    "title": "CBRS Professional Training Course by Google - Spectrum Sharing",
+    "url": "https://www.coursera.org/learn/google-cbrs-professional-training"
+  },
+  {
+    "title": "Become a CBRS Certified Professional Installer by Google Course by Google - Spectrum Sharing",
+    "url": "https://www.coursera.org/learn/google-cbrs-cpi-training"
+  },
+  {
+    "title": "How to Make a Comic Book (Project-Centered Course) Course by High Tech High Graduate School of Education",
+    "url": "https://www.coursera.org/learn/make-comic-books"
+  },
+  {
+    "title": "Learning Mindsets & Skills free Course by High Tech High Graduate School of Education",
+    "url": "https://www.coursera.org/learn/learning-skills"
+  },
+  {
+    "title": "How To Teach Us free Course by High Tech High Graduate School of Education",
+    "url": "https://www.coursera.org/learn/how-to-teach-us"
+  },
+  {
+    "title": "Linear Algebra Basics free Course by IIT Roorkee",
+    "url": "https://www.coursera.org/learn/linear-algebra-basics"
+  },
+  {
+    "title": "Foundations of Advanced Wireless Communication free Course by IIT Roorkee",
+    "url": "https://www.coursera.org/learn/foundations-of-advanced-wireless-communication"
+  },
+  {
+    "title": "Data Mining for Smart Cities free Course by IIT Roorkee",
+    "url": "https://www.coursera.org/learn/iitr-pgc5giot-mining-of-smart-city-data-opportunities-and-challenges"
+  },
+  {
+    "title": "Arabic for Beginners: Arabic in the Workplace Course by Khalifa University",
+    "url": "https://www.coursera.org/learn/arabic-for-beginners-3-arabic-in-the-workplace"
+  },
+  {
+    "title": "Arabic for Beginners: Communicating in Arabic Culture Course by Khalifa University",
+    "url": "https://www.coursera.org/learn/arabic-for-beginners-2-communicating-in-arabic-culture"
+  },
+  {
+    "title": "Arabic for Beginners: Arabic Alphabet and Phonology Course by Khalifa University",
+    "url": "https://www.coursera.org/learn/arabic-for-beginners-1-arabic-alphabet-and-phonology"
+  },
+  {
+    "title": "The Fundamentals of RDMA Programming free Course by NVIDIA",
+    "url": "https://www.coursera.org/learn/the-fundamentals-of-rdma-programming"
+  },
+  {
+    "title": "Introduction to Networking free Course by NVIDIA",
+    "url": "https://www.coursera.org/learn/introduction-to-networking-nvidia"
+  },
+  {
+    "title": "AI Infrastructure and Operations Fundamentals Course by NVIDIA",
+    "url": "https://www.coursera.org/learn/ai-infrastructure-operations-fundamentals"
+  },
+  {
+    "title": "Water Governance & Economics Course by PepsiCo",
+    "url": "https://www.coursera.org/learn/water-governance-economics"
+  },
+  {
+    "title": "Water Security & Stewardship Course by PepsiCo",
+    "url": "https://www.coursera.org/learn/water-security-stewardship"
+  },
+  {
+    "title": "The Water Cycle Course by PepsiCo",
+    "url": "https://www.coursera.org/learn/the-water-cycle"
+  },
+  {
+    "title": "Posicionamiento en redes: estrategias de contenido. Course by Radio y Televisión Española",
+    "url": "https://www.coursera.org/learn/redes-sociales-estrategias-contenido"
+  },
+  {
+    "title": "Búsqueda avanzada y verificación de información Course by Radio y Televisión Española",
+    "url": "https://www.coursera.org/learn/busqueda-avanzada-y-verificacion-de-informacion"
+  },
+  {
+    "title": "Competencias y recursos básicos para entornos digitales Course by Radio y Televisión Española",
+    "url": "https://www.coursera.org/learn/competencias-recursos-entornos-digitales"
+  },
+  {
+    "title": "Blended Learning: Personalizing Education for Students free Course by New Teacher Center",
+    "url": "https://www.coursera.org/learn/blending-learning-personalization"
+  },
+  {
+    "title": "Teaching Character and Creating Positive Classrooms  free Course by Relay Graduate School of Education",
+    "url": "https://www.coursera.org/learn/teaching-character"
+  },
+  {
+    "title": "Get Organized: How to be a Together Teacher free Course by Relay Graduate School of Education",
+    "url": "https://www.coursera.org/learn/together-teacher"
+  },
+  {
+    "title": "Digital Marketing Landscape new free Course by Simplilearn",
+    "url": "https://www.coursera.org/learn/digital-marketing-landscape"
+  },
+  {
+    "title": "Social Media Marketing new free Course by Simplilearn",
+    "url": "https://www.coursera.org/learn/socialmediamarketing"
+  },
+  {
+    "title": "Behavioral Marketing new Course by Simplilearn",
+    "url": "https://www.coursera.org/learn/behavioral-marketing"
+  },
+  {
+    "title": "Bajemos la temperatura: De la ciencia climática a la acción free Course by The World Bank Group",
+    "url": "https://www.coursera.org/learn/cambios-temperatura"
+  },
+  {
+    "title": "Les Partenariats Public-Privé (PPP): Comment offrir de meilleures infrastructures pour les services publics free Course by The World Bank Group",
+    "url": "https://www.coursera.org/learn/partenariats-public-prive"
+  },
+  {
+    "title": "From Climate Science to Action free Course by The World Bank Group",
+    "url": "https://www.coursera.org/learn/climate-science"
+  },
+  {
+    "title": "برمج بنفسك! مقدمة حول البرمجة Course by The University of Edinburgh",
+    "url": "https://www.coursera.org/learn/intro-programming-ar"
+  },
+  {
+    "title": "¡A Programar! Una introducción a la programación free Course by Universidad ORT Uruguay",
+    "url": "https://www.coursera.org/learn/a-programar"
+  },
+  {
+    "title": "Code Yourself! An Introduction to Programming free Course by The University of Edinburgh",
+    "url": "https://www.coursera.org/learn/intro-programming"
+  },
+  {
+    "title": "Urban Landscapes of Care - Designing child friendly cities new free Course by Universidad Peruana de Ciencias Aplicadas",
+    "url": "https://www.coursera.org/learn/urban-landscapes-of-care-ucp"
+  },
+  {
+    "title": "Vozes da Mudança Social free Course by Universidad Peruana de Ciencias Aplicadas",
+    "url": "https://www.coursera.org/learn/vozes-da-mudanca-social"
+  },
+  {
+    "title": "Voces de cambio social free Course by Universidad Peruana de Ciencias Aplicadas",
+    "url": "https://www.coursera.org/learn/vocesdecambiosocial"
+  },
+  {
+    "title": "Data Literacy – What is it and why does it matter? free Course by University of Copenhagen",
+    "url": "https://www.coursera.org/learn/data-literacy-what-is-it-and-why-does-it-matter"
+  },
+  {
+    "title": "European Citizenship – Development",
+    "url": "https://www.coursera.org/learn/european-citizenship"
+  },
+  {
+    "title": "Understanding Technology and Data Course by Accenture",
+    "url": "https://www.coursera.org/learn/understanding-technology-and-data"
+  },
+  {
+    "title": "Start Your Lifelong Learning Course by Accenture",
+    "url": "https://www.coursera.org/learn/start-your-lifelong-learning"
+  },
+  {
+    "title": "Financing Infrastructure in African Cities free Course by United Cities and Local Governments of Africa",
+    "url": "https://www.coursera.org/learn/financing-infrastructure-in-african-cities"
+  },
+  {
+    "title": "Planning for Climate Change in African Cities free Course by United Cities and Local Governments of Africa",
+    "url": "https://www.coursera.org/learn/climate-change-africa"
+  },
+  {
+    "title": "Giving and Receiving Feedback in a Diverse Environment new Course by Alignor",
+    "url": "https://www.coursera.org/learn/giving-and-receiving-feedback-in-a-diverse-environment"
+  },
+  {
+    "title": "Diversity Leadership for Everyone free Course by Alignor",
+    "url": "https://www.coursera.org/learn/diversity-leadership-for-everyone"
+  },
+  {
+    "title": "Campaign Planning and Optimization new Course by Amazon Ads",
+    "url": "https://www.coursera.org/learn/campaign-planning-and-optimization"
+  },
+  {
+    "title": "Foundations of Retail Media Course by Amazon Ads",
+    "url": "https://www.coursera.org/learn/foundations-of-retail-media"
+  },
+  {
+    "title": "Agile with Atlassian Jira free Course by Atlassian",
+    "url": "https://www.coursera.org/learn/agile-atlassian-jira"
+  },
+  {
+    "title": "Version Control with Git Course by Atlassian",
+    "url": "https://www.coursera.org/learn/version-control-with-git"
+  },
+  {
+    "title": "Data Visualization free Course by Ball State University",
+    "url": "https://www.coursera.org/learn/ball-state-university-data-visualization-open"
+  },
+  {
+    "title": "Introduction to Programming free Course by Ball State University",
+    "url": "https://www.coursera.org/learn/ball-state-university-introduction-to-programming-open-content"
+  },
+  {
+    "title": "El Arte de la Entrevista de Trabajo Course by Big Interview",
+    "url": "https://www.coursera.org/learn/entrevista-de-trabajo"
+  },
+  {
+    "title": "The Art of the Job Interview Course by Big Interview",
+    "url": "https://www.coursera.org/learn/art-of-job-interview"
+  },
+  {
+    "title": "Learning for a Sustainable Future: Live at COP28 Course by The University of Edinburgh",
+    "url": "https://www.coursera.org/learn/learning-live-at-cop"
+  },
+  {
+    "title": "Learning for a Sustainable Future Course by The University of Edinburgh",
+    "url": "https://www.coursera.org/learn/learning-for-a-sustainable-future"
+  },
+  {
+    "title": "Data Literacy – What is it and why does it matter? free Course by University of Copenhagen",
+    "url": "https://www.coursera.org/learn/data-literacy-what-is-it-and-why-does-it-matter"
+  },
+  {
+    "title": "European Citizenship – Development",
+    "url": "https://www.coursera.org/learn/european-citizenship"
+  },
+  {
+    "title": "Excel Modeling for Professionals: Best Practices & Pitfalls Course by Erasmus University Rotterdam",
+    "url": "https://www.coursera.org/learn/perfectxl-microsoft-excel-course"
+  },
+  {
+    "title": "Circular Economy - Sustainable Materials Management free Course by Lund University",
+    "url": "https://www.coursera.org/learn/circular-economy"
+  },
+  {
+    "title": "Urbanisation and Health - Promoting  Sustainable Solutions free Course by University of Copenhagen",
+    "url": "https://www.coursera.org/learn/urbanisation-health-promoting-sustainable-solutions"
+  },
+  {
+    "title": "Patient Perspectives on Medications: Qualitative Interviews free Course by University of Copenhagen",
+    "url": "https://www.coursera.org/learn/patient-perspectives-on-medications-qualitative-interviews"
+  },
+  {
+    "title": "Computer Vision with Embedded Machine Learning free Course by Edge Impulse",
+    "url": "https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning"
+  },
+  {
+    "title": "Introduction to Embedded Machine Learning free Course by Edge Impulse",
+    "url": "https://www.coursera.org/learn/introduction-to-embedded-machine-learning"
+  },
+  {
+    "title": "Introduction to Augmented Reality and ARCore free Course by Google AR & VR",
+    "url": "https://www.coursera.org/learn/ar"
+  },
+  {
+    "title": "VR and 360 Video Production free Course by Google AR & VR",
+    "url": "https://www.coursera.org/learn/360-vr-video-production"
+  },
+  {
+    "title": "Financing Infrastructure in African Cities free Course by United Cities and Local Governments of Africa",
+    "url": "https://www.coursera.org/learn/financing-infrastructure-in-african-cities"
+  },
+  {
+    "title": "Planning for Climate Change in African Cities free Course by United Cities and Local Governments of Africa",
+    "url": "https://www.coursera.org/learn/climate-change-africa"
+  },
+  {
+    "title": "Explorando os recursos educacionais da Khan Academy free Course by Fundação Lemann",
+    "url": "https://www.coursera.org/learn/khanacademy"
+  },
+  {
+    "title": "Ensino Híbrido: Personalização e Tecnologia na Educação free Course by Fundação Lemann",
+    "url": "https://www.coursera.org/learn/ensino-hibrido"
+  },
+  {
+    "title": "Learning for a Sustainable Future: Live at COP28 Course by The University of Edinburgh",
+    "url": "https://www.coursera.org/learn/learning-live-at-cop"
+  },
+  {
+    "title": "Learning for a Sustainable Future Course by The University of Edinburgh",
+    "url": "https://www.coursera.org/learn/learning-for-a-sustainable-future"
+  },
+  {
+    "title": "Anatomy of the Abdomen and Pelvis; a journey from basis to clinic.   free Course by Universiteit Leiden",
+    "url": "https://www.coursera.org/learn/abdomen-anatomy"
+  },
+  {
+    "title": "Clinical Kidney",
+    "url": "https://www.coursera.org/learn/clinical-kidney-transplantation"
+  },
+  {
+    "title": "Introduction to MongoDB Course by MongoDB Inc.",
+    "url": "https://www.coursera.org/learn/introduction-to-mongodb"
+  },
+  {
+    "title": "MongoDB Aggregation Framework Course by MongoDB Inc.",
+    "url": "https://www.coursera.org/learn/mongodb-aggregation-framework"
+  },
+  {
+    "title": "Leading Innovation in Arts and Culture free Course by Vanderbilt University",
+    "url": "https://www.coursera.org/learn/arts-culture-innovation"
+  },
+  {
+    "title": "Arts and Culture Strategy free Course by University of Pennsylvania",
+    "url": "https://www.coursera.org/learn/arts-culture-strategy"
+  },
+  {
+    "title": "Introduction to Modern Data Engineering with Snowflake new free Course by Snowflake",
+    "url": "https://www.coursera.org/learn/data-engineering-snowflake"
+  },
+  {
+    "title": "Intro to Snowflake for Devs",
+    "url": "https://www.coursera.org/learn/snowflake-intro-app-developers-data-scientists-data-engineers"
+  },
+  {
+    "title": "Data Literacy – What is it and why does it matter? free Course by University of Copenhagen",
+    "url": "https://www.coursera.org/learn/data-literacy-what-is-it-and-why-does-it-matter"
+  },
+  {
+    "title": "European Citizenship – Development",
+    "url": "https://www.coursera.org/learn/european-citizenship"
+  },
+  {
+    "title": "Essentials in Clinical Simulations Across the Health Professions free Course by The George Washington University",
+    "url": "https://www.coursera.org/learn/clinicalsimulations"
+  },
+  {
+    "title": "Leading Healthcare Quality and Safety free Course by The George Washington University",
+    "url": "https://www.coursera.org/learn/quality-healthcare"
+  },
+  {
+    "title": "Game Theory II: Advanced Applications free Course by Stanford University",
+    "url": "https://www.coursera.org/learn/game-theory-2"
+  },
+  {
+    "title": "Game Theory free Course by Stanford University",
+    "url": "https://www.coursera.org/learn/game-theory-1"
+  },
+  {
+    "title": "Become a changemaker",
+    "url": "https://www.coursera.org/learn/changemaker"
+  },
+  {
+    "title": "Devenir entrepreneur du changement free Course by HEC Paris",
+    "url": "https://www.coursera.org/learn/entrepreneur-changement"
+  },
+  {
+    "title": "Building a Healthy Plate free Course by Tufts University",
+    "url": "https://www.coursera.org/learn/building-a-healthy-plate"
+  },
+  {
+    "title": "Hypothesis Testing with Python and Excel Course by Tufts University",
+    "url": "https://www.coursera.org/learn/hypothesis-testing-python-excel"
+  },
+  {
+    "title": "Teaching EFL/ESL Reading: A Task Based Approach free Course by University of London",
+    "url": "https://www.coursera.org/learn/esl-reading"
+  },
+  {
+    "title": "What future for education? free Course by University of London",
+    "url": "https://www.coursera.org/learn/future-education"
+  },
+  {
+    "title": "캡스톤 : 소프트웨어 제품 관리 실전 프로젝트 free Course by University of Alberta",
+    "url": "https://www.coursera.org/learn/software-product-management-capstone-ko"
+  },
+  {
+    "title": "Arctic Peoples and Cultures  free Course by University of Alberta",
+    "url": "https://www.coursera.org/learn/arctic-peoples-and-cultures"
+  },
+  {
+    "title": "Social Norms",
+    "url": "https://www.coursera.org/learn/change"
+  },
+  {
+    "title": "Social Norms",
+    "url": "https://www.coursera.org/learn/norms"
+  },
+  {
+    "title": "Financing Infrastructure in African Cities free Course by United Cities and Local Governments of Africa",
+    "url": "https://www.coursera.org/learn/financing-infrastructure-in-african-cities"
+  },
+  {
+    "title": "Planning for Climate Change in African Cities free Course by United Cities and Local Governments of Africa",
+    "url": "https://www.coursera.org/learn/climate-change-africa"
+  },
+  {
+    "title": "Chemistry free Course by University of Kentucky",
+    "url": "https://www.coursera.org/learn/chemistry-1"
+  },
+  {
+    "title": "Advanced Chemistry free Course by University of Kentucky",
+    "url": "https://www.coursera.org/learn/advanced-chemistry"
+  },
+  {
+    "title": "Data Literacy – What is it and why does it matter? free Course by University of Copenhagen",
+    "url": "https://www.coursera.org/learn/data-literacy-what-is-it-and-why-does-it-matter"
+  },
+  {
+    "title": "European Citizenship – Development",
+    "url": "https://www.coursera.org/learn/european-citizenship"
+  },
+  {
+    "title": "Data Literacy – What is it and why does it matter? free Course by University of Copenhagen",
+    "url": "https://www.coursera.org/learn/data-literacy-what-is-it-and-why-does-it-matter"
+  },
+  {
+    "title": "European Citizenship – Development",
+    "url": "https://www.coursera.org/learn/european-citizenship"
+  },
+  {
+    "title": "VMware NSX를 활용한 네트워킹 및 보안 아키텍처 free Course by VMware",
+    "url": "https://www.coursera.org/learn/networking-security-architecture-vmware-nsx-ko"
+  },
+  {
+    "title": "Networking and Security Architecture with VMware NSX Course by VMware",
+    "url": "https://www.coursera.org/learn/networking-security-architecture-vmware-nsx"
+  },
+  {
+    "title": "Workday in Action Series new Course by Workday",
+    "url": "https://www.coursera.org/learn/workday-in-action-series"
+  },
+  {
+    "title": "Workday Basics Series Course by Workday",
+    "url": "https://www.coursera.org/learn/workday-basics-series"
+  },
+  {
+    "title": "游戏策划与设计 Course by Fudan University",
+    "url": "https://www.coursera.org/learn/youxi-cehua-sheji"
+  },
+  {
+    "title": "游戏产业概论 Course by Fudan University",
+    "url": "https://www.coursera.org/learn/youxi-chanye-gailun"
+  },
+  {
+    "title": "Ethics",
+    "url": "https://www.coursera.org/learn/ethics-technology-engineering"
+  },
+  {
+    "title": "Science Matters: Let's Talk About COVID-19 free Course by Imperial College London",
+    "url": "https://www.coursera.org/learn/covid-19"
+  },
+  {
+    "title": "Generative Design for Additive Manufacturing Course by Autodesk",
+    "url": "https://www.coursera.org/learn/generative-design-additive-manufacturing"
+  },
+  {
+    "title": "Getting Started with Automation 360 free Course by Automation Anywhere",
+    "url": "https://www.coursera.org/learn/automation-360"
+  },
+  {
+    "title": "Art of the MOOC:  Experiments with Sound free Course by Duke University",
+    "url": "https://www.coursera.org/learn/experiments-with-sound"
+  },
+  {
+    "title": "The Manager's Toolkit: A Practical Guide to Managing People at Work free Course by University of London",
+    "url": "https://www.coursera.org/learn/people-management"
+  },
+  {
+    "title": "Get Interactive: Practical Teaching with Technology free Course by University of London",
+    "url": "https://www.coursera.org/learn/getinmooc"
+  },
+  {
+    "title": "Blue Prism Foundation Training Course by Blue Prism",
+    "url": "https://www.coursera.org/learn/blue-prism-foundation-training"
+  },
+  {
+    "title": "Bridging the Gap between Strategy Design and Delivery free Course by Brightline Initiative",
+    "url": "https://www.coursera.org/learn/bridging-strategy-design-delivery-gap"
+  },
+  {
+    "title": "Doing Economics: Measuring Climate Change free Course by University of London",
+    "url": "https://www.coursera.org/learn/doing-economics-measuring-climate-change"
+  },
+  {
+    "title": "Statistical Thermodynamics: Molecules to Machines free Course by Carnegie Mellon University",
+    "url": "https://www.coursera.org/learn/statistical-thermodynamics-cm"
+  },
+  {
+    "title": "Blended Learning: Personalizing Education for Students free Course by New Teacher Center",
+    "url": "https://www.coursera.org/learn/blending-learning-personalization"
+  },
+  {
+    "title": "Blockchain: Foundations and Use Cases Course by ConsenSys Academy",
+    "url": "https://www.coursera.org/learn/blockchain-foundations-and-use-cases"
+  },
+  {
+    "title": "Chronically Ill in an Emergency: Why Mental Health Matters free Course by University of Copenhagen",
+    "url": "https://www.coursera.org/learn/mental-health-emergencies"
+  },
+  {
+    "title": "Introduction to the Orbital Perspective free Course by University of Arizona",
+    "url": "https://www.coursera.org/learn/orbitalperspective"
+  },
+  {
+    "title": "Circular Economy - Sustainable Materials Management free Course by Lund University",
+    "url": "https://www.coursera.org/learn/circular-economy"
+  },
+  {
+    "title": "Gestão para a Aprendizagem: Módulo Gestão Estratégica free Course by Fundação Lemann",
+    "url": "https://www.coursera.org/learn/gestao-escolar"
+  }
+]
