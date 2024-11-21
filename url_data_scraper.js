@@ -10,7 +10,7 @@ const puppeteer = require('puppeteer');
     const browser = await puppeteer.launch({
       headless: true,
       args: ['--no-sandbox', '--disable-setuid-sandbox'],
-      executablePath: puppeteer.executablePath(),
+      executablePath: process.env.CHROME_BIN || puppeteer.executablePath(),
 
       defaultViewport: null,
     });
