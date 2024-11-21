@@ -8,8 +8,10 @@ const puppeteer = require('puppeteer');
     const delayTime = 500;
 
     const browser = await puppeteer.launch({
-      headless: false,
-      // args: ['--no-sandbox', '--disable-setuid-sandbox'], // Optional arguments
+      headless: true,
+      args: ['--no-sandbox', '--disable-setuid-sandbox'],
+      executablePath: puppeteer.executablePath(),
+
       defaultViewport: null,
     });
 
