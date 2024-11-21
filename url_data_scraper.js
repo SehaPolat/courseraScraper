@@ -10,7 +10,9 @@ const puppeteer = require('puppeteer');
     const browser = await puppeteer.launch({
       headless: true,
       args: ['--no-sandbox', '--disable-setuid-sandbox'],
-      executablePath: process.env.CHROME_BIN || puppeteer.executablePath(),
+      //executablePath: process.env.CHROME_BIN || puppeteer.executablePath(),
+      executablePath: '/app/.cache/puppeteer/chrome/linux-131.0.6778.85/chrome-linux64/chrome', // Explicit path to installed Chromium
+
       defaultViewport: null,
       userDataDir: '/app/.cache/puppeteer',
     });
