@@ -14,7 +14,7 @@ const puppeteer = require('puppeteer');
       defaultViewport: null,
       userDataDir: '/app/.cache/puppeteer',
     });
-
+    console.log("Chromium executable path:", puppeteer.executablePath());
     const page = await browser.newPage();
 
     for (const item of items) {
